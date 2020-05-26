@@ -17,5 +17,7 @@ Any problems/bugs contact me here . Currently “-” button is temperamental.
 ## What I Learnt
 
 To create this app i had to learn how classpaths work , at first i tried working with maven dewpendaciss
-but i ran into issues of some of the libraries i needed weren't avalable , i learnt how to create them myself. but beofre executing i realised that it would be quicker to create a .jar with the libraries i would need in eclipse it would be export to .jar in inteliji it would be same but it's named artifact. 
+but i ran into issues of some of the libraries i needed weren't avalable , i learnt how to create them myself. but beofre executing i realised that it would be quicker to create a .jar with the libraries i would need in eclipse it would be export to .jar in inteliji it would be same but it's named artifact and then import to dependancies. 
+
+creating this app made me consider the user experience, from how to user interacts with the layout , how to avoid app crashes (try Catch) 
 
