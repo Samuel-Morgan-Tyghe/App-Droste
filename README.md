@@ -1,5 +1,5 @@
 # App-Droste
-For Executable Application in various os download here
+For Executable Applications in various OS download here
 https://automated-art.co.uk/shop/droste-tame-impala-innerspeaker-album-artwork-generator/
 
 Interact with keys and mouse:
@@ -16,8 +16,8 @@ Any problems/bugs contact me here . Currently “-” button is temperamental.
 
 ## What I Learnt
 
-To create this app i had to learn how classpaths work , at first i tried working with maven dewpendaciss
-but i ran into issues of some of the libraries i needed weren't avalable , i learnt how to create them myself. but beofre executing i realised that it would be quicker to create a .jar with the libraries i would need in eclipse it would be export to .jar in inteliji it would be same but it's named artifact and then import to dependancies. 
+To create this app, I had to learn how classpaths work. At first, I tried working with maven dependencies.
+But after I ran into issues with some libraries I needed that weren't available, I learned how to create them myself. But before executing I realised that it would be quicker to create a. Jar with the libraries I would need for the eclipse it would be exported to. The jar in Intelliji would be the same, but it's named artefact and then imported to dependencies. 
 
-Creating this app made me consider the user experience, from how to user interacts with the layout , how to avoid app crashes (try Catch) .
+Creating this app made me consider the user experience, from how the user interacts with the layout, how to avoid app crashes (try Catch).
 
